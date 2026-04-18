@@ -1,0 +1,398 @@
+{
+  "AMD": {
+    "name": "Ahmedabad (Sardar Vallabhbhai Patel)",
+    "lounges": [
+      {
+        "name": "Plaza Premium Lounge",
+        "terminal": "Domestic",
+        "networks": [
+          "visa",
+          "mastercard",
+          "rupay",
+          "dreamfolks"
+        ]
+      },
+      {
+        "name": "Encalm Lounge",
+        "terminal": "Domestic",
+        "networks": [
+          "visa",
+          "mastercard",
+          "rupay",
+          "dreamfolks",
+          "priority_pass"
+        ]
+      }
+    ]
+  },
+  "BBI": {
+    "name": "Bhubaneswar (Biju Patnaik)",
+    "lounges": [
+      {
+        "name": "The Airr Lounge",
+        "terminal": "Domestic",
+        "networks": [
+          "visa",
+          "mastercard",
+          "rupay",
+          "dreamfolks",
+          "priority_pass"
+        ]
+      }
+    ]
+  },
+  "BLR": {
+    "name": "Bengaluru (Kempegowda)",
+    "lounges": [
+      {
+        "name": "Plaza Premium Lounge",
+        "terminal": "T2",
+        "networks": [
+          "visa",
+          "mastercard",
+          "rupay",
+          "dreamfolks",
+          "priority_pass"
+        ]
+      },
+      {
+        "name": "Encalm Lounge",
+        "terminal": "T1",
+        "networks": [
+          "visa",
+          "mastercard",
+          "rupay",
+          "dreamfolks"
+        ]
+      }
+    ]
+  },
+  "BOM": {
+    "name": "Mumbai (Chhatrapati Shivaji Maharaj)",
+    "lounges": [
+      {
+        "name": "GVK Lounge",
+        "terminal": "T2 International",
+        "networks": [
+          "visa",
+          "mastercard",
+          "rupay",
+          "amex",
+          "diners",
+          "dreamfolks",
+          "priority_pass"
+        ]
+      },
+      {
+        "name": "GVK Lounge",
+        "terminal": "T1 Domestic",
+        "networks": [
+          "visa",
+          "mastercard",
+          "rupay",
+          "dreamfolks"
+        ]
+      },
+      {
+        "name": "Plaza Premium Lounge",
+        "terminal": "T2",
+        "networks": [
+          "visa",
+          "mastercard",
+          "rupay",
+          "dreamfolks",
+          "priority_pass"
+        ]
+      }
+    ]
+  },
+  "CCU": {
+    "name": "Kolkata (Netaji Subhas Chandra Bose)",
+    "lounges": [
+      {
+        "name": "Encalm Lounge",
+        "terminal": "Domestic",
+        "networks": [
+          "visa",
+          "mastercard",
+          "rupay",
+          "dreamfolks",
+          "priority_pass"
+        ]
+      },
+      {
+        "name": "Café & Lounge",
+        "terminal": "International",
+        "networks": [
+          "visa",
+          "mastercard",
+          "rupay",
+          "priority_pass"
+        ]
+      }
+    ]
+  },
+  "COK": {
+    "name": "Kochi (Cochin International)",
+    "lounges": [
+      {
+        "name": "Adani Lounge",
+        "terminal": "Domestic",
+        "networks": [
+          "mastercard",
+          "rupay",
+          "visa",
+          "dreamfolks"
+        ]
+      }
+    ]
+  },
+  "DEL": {
+    "name": "Delhi (Indira Gandhi International)",
+    "lounges": [
+      {
+        "name": "Encalm Lounge",
+        "terminal": "T1 Domestic",
+        "networks": [
+          "visa",
+          "mastercard",
+          "rupay",
+          "dreamfolks"
+        ]
+      },
+      {
+        "name": "Encalm Lounge",
+        "terminal": "T2 Domestic",
+        "networks": [
+          "visa",
+          "mastercard",
+          "rupay",
+          "dreamfolks"
+        ]
+      },
+      {
+        "name": "Encalm Lounge",
+        "terminal": "T3 Domestic",
+        "networks": [
+          "visa",
+          "mastercard",
+          "rupay",
+          "dreamfolks",
+          "priority_pass"
+        ]
+      },
+      {
+        "name": "Plaza Premium Lounge",
+        "terminal": "T3 International",
+        "networks": [
+          "visa",
+          "mastercard",
+          "rupay",
+          "amex",
+          "diners",
+          "dreamfolks",
+          "priority_pass"
+        ]
+      }
+    ]
+  },
+  "GAU": {
+    "name": "Guwahati (Lokpriya Gopinath Bordoloi)",
+    "lounges": [
+      {
+        "name": "The Airr Lounge",
+        "terminal": "Domestic",
+        "networks": [
+          "mastercard",
+          "rupay",
+          "visa",
+          "dreamfolks"
+        ]
+      }
+    ]
+  },
+  "GOI": {
+    "name": "Goa (Manohar International)",
+    "lounges": [
+      {
+        "name": "Adani Lounge",
+        "terminal": "Domestic",
+        "networks": [
+          "dreamfolks",
+          "mastercard",
+          "visa"
+        ]
+      }
+    ]
+  },
+  "HYD": {
+    "name": "Hyderabad (Rajiv Gandhi International)",
+    "lounges": [
+      {
+        "name": "Plaza Premium Lounge",
+        "terminal": "Domestic",
+        "networks": [
+          "diners",
+          "dreamfolks",
+          "mastercard",
+          "priority_pass",
+          "rupay",
+          "visa"
+        ]
+      },
+      {
+        "name": "VITS Lounge",
+        "terminal": "International",
+        "networks": [
+          "amex",
+          "dreamfolks",
+          "mastercard",
+          "priority_pass",
+          "visa"
+        ]
+      }
+    ]
+  },
+  "IXC": {
+    "name": "Chandigarh",
+    "lounges": [
+      {
+        "name": "The Airr Lounge",
+        "terminal": "Domestic",
+        "networks": [
+          "mastercard",
+          "rupay",
+          "visa",
+          "dreamfolks"
+        ]
+      }
+    ]
+  },
+  "JAI": {
+    "name": "Jaipur",
+    "lounges": [
+      {
+        "name": "The Airr Lounge",
+        "terminal": "Domestic",
+        "networks": [
+          "mastercard",
+          "rupay",
+          "visa",
+          "dreamfolks"
+        ]
+      }
+    ]
+  },
+  "LKO": {
+    "name": "Lucknow (Chaudhary Charan Singh)",
+    "lounges": [
+      {
+        "name": "Elysian Lounge",
+        "terminal": "Domestic",
+        "networks": [
+          "dreamfolks",
+          "mastercard",
+          "rupay",
+          "visa"
+        ]
+      }
+    ]
+  },
+  "MAA": {
+    "name": "Chennai (International)",
+    "lounges": [
+      {
+        "name": "Encalm Lounge",
+        "terminal": "Domestic",
+        "networks": [
+          "dreamfolks",
+          "mastercard",
+          "priority_pass",
+          "rupay",
+          "visa"
+        ]
+      },
+      {
+        "name": "Plaza Premium Lounge",
+        "terminal": "International",
+        "networks": [
+          "amex",
+          "dreamfolks",
+          "mastercard",
+          "priority_pass",
+          "visa"
+        ]
+      }
+    ]
+  },
+  "NAG": {
+    "name": "Nagpur (Dr. Babasaheb Ambedkar International)",
+    "lounges": [
+      {
+        "name": "The Airr Lounge",
+        "terminal": "Domestic",
+        "networks": [
+          "visa",
+          "mastercard",
+          "rupay",
+          "dreamfolks",
+          "priority_pass"
+        ]
+      },
+      {
+        "name": "Mandarin Lounge",
+        "terminal": "Domestic",
+        "networks": [
+          "visa",
+          "mastercard",
+          "rupay",
+          "dreamfolks"
+        ]
+      }
+    ]
+  },
+  "PNQ": {
+    "name": "Pune",
+    "lounges": [
+      {
+        "name": "Elysian Lounge",
+        "terminal": "Domestic",
+        "networks": [
+          "mastercard",
+          "rupay",
+          "visa",
+          "dreamfolks"
+        ]
+      }
+    ]
+  },
+  "TRV": {
+    "name": "Thiruvananthapuram",
+    "lounges": [
+      {
+        "name": "The Airr Lounge",
+        "terminal": "Domestic",
+        "networks": [
+          "mastercard",
+          "rupay",
+          "visa",
+          "dreamfolks"
+        ]
+      }
+    ]
+  },
+  "VTZ": {
+    "name": "Visakhapatnam",
+    "lounges": [
+      {
+        "name": "The Airr Lounge and Bar",
+        "terminal": "Domestic",
+        "networks": [
+          "visa",
+          "rupay",
+          "priority_pass"
+        ]
+      }
+    ]
+  }
+}

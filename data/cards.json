@@ -1,0 +1,1639 @@
+{
+  "cards": {
+    "American Express": [
+      "Gold Card",
+      "Membership Rewards",
+      "Platinum Card",
+      "Platinum Reserve",
+      "SmartEarn"
+    ],
+    "AU Small Finance Bank": [
+      "Altura Plus",
+      "LIT",
+      "Zenith",
+      "Zenith+"
+    ],
+    "Axis Bank": [
+      "Ace",
+      "Atlas",
+      "Burgundy Debit",
+      "Flipkart Axis Bank",
+      "Magnus (Metal)",
+      "My Zone",
+      "Privilege",
+      "Reserve",
+      "Vistara Infinite",
+      "Priority Debit",
+      "Neo",
+      "Easy Debit"
+    ],
+    "Federal Bank": [
+      "Celesta (Mastercard)",
+      "Celesta (Visa)",
+      "Imperio",
+      "Scapia (RuPay)",
+      "Scapia (Visa)",
+      "Signet"
+    ],
+    "HDFC Bank": [
+      "Business MoneyBack",
+      "Diners Club Black",
+      "Diners Club Privilege",
+      "Infinia (Metal)",
+      "Millennia",
+      "MoneyBack+",
+      "Regalia",
+      "Regalia Gold",
+      "Swiggy HDFC Bank",
+      "Tata Neu Infinity",
+      "Tata Neu Plus",
+      "EasyShop Platinum Debit",
+      "Imperia Debit",
+      "Millennia Debit",
+      "Infiniti Debit",
+      "MoneyBack",
+      "Freedom",
+      "EasyShop Gold Debit",
+      "EasyShop Titanium Debit"
+    ],
+    "HSBC": [
+      "Live+",
+      "Premier",
+      "TravelOne",
+      "Visa Platinum"
+    ],
+    "ICICI Bank": [
+      "Amazon Pay ICICI",
+      "Coral",
+      "Emeralde",
+      "Emeralde Private Metal",
+      "Manchester United Platinum",
+      "MakeMyTrip ICICI",
+      "Sapphiro",
+      "Rubyx",
+      "Platinum Chip",
+      "Coral Paywave Debit",
+      "Sapphiro Debit",
+      "Platinum",
+      "Silver Debit",
+      "Gold Debit",
+      "Expressions Debit",
+      "Rubyx Debit"
+    ],
+    "IDFC FIRST Bank": [
+      "Classic",
+      "HPCL Power+",
+      "Millennia",
+      "Select",
+      "Vistara",
+      "Wealth",
+      "Wealth Debit",
+      "Select Debit",
+      "Visa Signature Debit",
+      "Visa Platinum Debit"
+    ],
+    "IndusInd Bank": [
+      "Celesta",
+      "EazyDiner Platinum",
+      "Iconia",
+      "Legend",
+      "Platinum Aura Edge",
+      "Pioneer Heritage",
+      "Pinnacle",
+      "World Exclusive Debit",
+      "Visa Signature Exclusive Debit"
+    ],
+    "Kotak Mahindra Bank": [
+      "811 Dream Different",
+      "League Platinum",
+      "Royale Signature",
+      "White",
+      "White Reserve",
+      "Zen Signature",
+      "Privy League Signature Debit",
+      "811",
+      "Classic Debit"
+    ],
+    "Priority Pass": [
+      "Priority Pass Membership"
+    ],
+    "RBL Bank": [
+      "Bank Easy",
+      "Insignia Preferred",
+      "Platinum Maxima Plus",
+      "World Safari",
+      "World Safari Lite"
+    ],
+    "SBI Card": [
+      "BPCL Octane",
+      "Elite",
+      "Pulse",
+      "SimplySAVE",
+      "Unnati",
+      "Platinum Debit (RuPay)",
+      "Platinum Debit (Visa/MC)",
+      "Wealth RuPay Select Debit",
+      "BPCL SBI",
+      "Classic Debit",
+      "Gold Debit"
+    ],
+    "Standard Chartered": [
+      "DigiSmart",
+      "EaseMyTrip",
+      "Rewards",
+      "Smart",
+      "Ultimate"
+    ],
+    "Yes Bank": [
+      "Elite+",
+      "Marquee",
+      "Reserv",
+      "Wellness Plus",
+      "Prosperity Platinum Debit",
+      "Classic Debit"
+    ],
+    "BOBCARD": [
+      "Eterna",
+      "Premier",
+      "Select",
+      "RuPay Platinum",
+      "Varunah Plus",
+      "Easy",
+      "RuPay Platinum DI Debit"
+    ]
+  },
+  "eligibility": {
+    "American Express::Gold Card": {
+      "status": "partial",
+      "domestic_visits": "Unlimited (select Amex partner lounges)",
+      "intl_visits": "None",
+      "spend_req": null,
+      "access_via": "Select Amex partner lounges",
+      "last_verified": "2026-04",
+      "notes": [
+        "Access at select partner lounges only, not all DreamFolks or Visa lounges"
+      ]
+    },
+    "American Express::Platinum Card": {
+      "status": "yes",
+      "domestic_visits": "Unlimited",
+      "intl_visits": "Unlimited (Priority Pass + Centurion)",
+      "spend_req": null,
+      "access_via": "Priority Pass + Amex Centurion",
+      "last_verified": "2026-04",
+      "notes": [
+        "Annual fee ₹60,000",
+        "2 guests free at Priority Pass lounges"
+      ]
+    },
+    "American Express::Membership Rewards": {
+      "status": "no",
+      "domestic_visits": "None",
+      "intl_visits": "None",
+      "spend_req": null,
+      "access_via": "N/A",
+      "last_verified": "2026-04",
+      "notes": [
+        "Entry-level Amex card — no lounge access"
+      ]
+    },
+    "American Express::SmartEarn": {
+      "status": "no",
+      "domestic_visits": "None",
+      "intl_visits": "None",
+      "spend_req": null,
+      "access_via": "N/A",
+      "last_verified": "2026-04",
+      "notes": [
+        "Cashback-focused entry card — no lounge access"
+      ]
+    },
+    "American Express::Platinum Reserve": {
+      "status": "yes",
+      "domestic_visits": "Unlimited",
+      "intl_visits": "4/year (Priority Pass)",
+      "spend_req": null,
+      "access_via": "DreamFolks + Priority Pass",
+      "last_verified": "2026-04",
+      "notes": [
+        "Annual fee ₹5,000"
+      ]
+    },
+    "AU Small Finance Bank::Zenith+": {
+      "status": "yes",
+      "domestic_visits": "16/year (4/quarter)",
+      "intl_visits": "16/year via Priority Pass (4/quarter)",
+      "spend_req": null,
+      "access_via": "DreamFolks + Priority Pass",
+      "last_verified": "2026-04",
+      "notes": [
+        "Annual fee ₹4,999",
+        "0.99% forex markup",
+        "Spend ₹20,000/quarter to activate domestic access"
+      ]
+    },
+    "AU Small Finance Bank::Zenith": {
+      "status": "yes",
+      "domestic_visits": "8/year (2/quarter)",
+      "intl_visits": "8/year via Priority Pass (2/quarter)",
+      "spend_req": "₹20,000/quarter",
+      "access_via": "DreamFolks + Priority Pass",
+      "last_verified": "2026-04",
+      "notes": [
+        "Annual fee ₹7,999",
+        "Spend ₹20,000/quarter to activate"
+      ]
+    },
+    "AU Small Finance Bank::LIT": {
+      "status": "partial",
+      "domestic_visits": "8/year (2/quarter)",
+      "intl_visits": "None",
+      "spend_req": "₹20,000/quarter",
+      "access_via": "DreamFolks",
+      "last_verified": "2026-04",
+      "notes": [
+        "Customisable card — lounge benefit must be selected as an active feature"
+      ]
+    },
+    "AU Small Finance Bank::Altura Plus": {
+      "status": "no",
+      "domestic_visits": "None (railway lounge only)",
+      "intl_visits": "None",
+      "spend_req": null,
+      "access_via": "N/A",
+      "last_verified": "2026-04",
+      "notes": [
+        "Offers 2 complimentary railway lounge visits/quarter, not airport lounges"
+      ]
+    },
+    "Axis Bank::Atlas": {
+      "status": "yes",
+      "domestic_visits": "Unlimited",
+      "intl_visits": "Unlimited (Priority Pass)",
+      "spend_req": null,
+      "access_via": "DreamFolks + Priority Pass",
+      "last_verified": "2026-04",
+      "notes": [
+        "Annual fee ₹5,000",
+        "Best travel card from Axis Bank"
+      ]
+    },
+    "Axis Bank::Reserve": {
+      "status": "yes",
+      "domestic_visits": "Unlimited",
+      "intl_visits": "Unlimited (Priority Pass)",
+      "spend_req": null,
+      "access_via": "Priority Pass + DreamFolks",
+      "last_verified": "2026-04",
+      "notes": [
+        "Super-premium card",
+        "Annual fee ₹50,000"
+      ]
+    },
+    "Axis Bank::Magnus (Metal)": {
+      "status": "yes",
+      "domestic_visits": "Unlimited",
+      "intl_visits": "Unlimited (Priority Pass)",
+      "spend_req": null,
+      "access_via": "DreamFolks + Priority Pass",
+      "last_verified": "2026-04",
+      "notes": [
+        "Annual fee ₹12,500",
+        "Unlimited for primary and add-on"
+      ]
+    },
+    "Axis Bank::Privilege": {
+      "status": "partial",
+      "domestic_visits": "4/year (1/quarter)",
+      "intl_visits": "None",
+      "spend_req": null,
+      "access_via": "DreamFolks",
+      "last_verified": "2026-04",
+      "notes": []
+    },
+    "Axis Bank::Burgundy Debit": {
+      "status": "yes",
+      "domestic_visits": "Unlimited",
+      "intl_visits": "Unlimited (Priority Pass)",
+      "spend_req": null,
+      "access_via": "Visa + DreamFolks",
+      "last_verified": "2026-04",
+      "notes": [
+        "Requires Burgundy banking relationship"
+      ]
+    },
+    "Axis Bank::Flipkart Axis Bank": {
+      "status": "no",
+      "domestic_visits": "None",
+      "intl_visits": "None",
+      "spend_req": null,
+      "access_via": "N/A",
+      "last_verified": "2026-04",
+      "notes": [
+        "Cashback/shopping co-branded card — no lounge access"
+      ]
+    },
+    "Axis Bank::Ace": {
+      "status": "no",
+      "domestic_visits": "None",
+      "intl_visits": "None",
+      "spend_req": null,
+      "access_via": "N/A",
+      "last_verified": "2026-04",
+      "notes": [
+        "Cashback-focused card — no lounge access"
+      ]
+    },
+    "Axis Bank::My Zone": {
+      "status": "no",
+      "domestic_visits": "None",
+      "intl_visits": "None",
+      "spend_req": null,
+      "access_via": "None",
+      "last_verified": "2026-04",
+      "notes": [
+        "Popular entertainment-focused entry card — no lounge access"
+      ]
+    },
+    "Axis Bank::Vistara Infinite": {
+      "status": "yes",
+      "domestic_visits": "8/year (2/quarter)",
+      "intl_visits": "4/year (Priority Pass)",
+      "spend_req": null,
+      "access_via": "DreamFolks + Priority Pass",
+      "last_verified": "2026-04",
+      "notes": [
+        "Co-branded with Air India (formerly Vistara)"
+      ]
+    },
+    "Federal Bank::Scapia (Visa)": {
+      "status": "partial",
+      "domestic_visits": "Unlimited",
+      "intl_visits": "None",
+      "spend_req": "₹10,000/month",
+      "access_via": "DreamFolks",
+      "last_verified": "2026-04",
+      "notes": [
+        "Lifetime free card",
+        "Zero forex markup",
+        "Spend ₹10,000/month on Visa variant to unlock lounge access for that month",
+        "No international lounge access"
+      ]
+    },
+    "Federal Bank::Scapia (RuPay)": {
+      "status": "partial",
+      "domestic_visits": "Unlimited",
+      "intl_visits": "None",
+      "spend_req": "₹15,000/month",
+      "access_via": "DreamFolks",
+      "last_verified": "2026-04",
+      "notes": [
+        "Lifetime free card",
+        "Spend ₹15,000/month on RuPay variant to unlock lounge access for that month"
+      ]
+    },
+    "Federal Bank::Signet": {
+      "status": "partial",
+      "domestic_visits": "1/quarter",
+      "intl_visits": "None",
+      "spend_req": "₹20,000/quarter",
+      "access_via": "Visa / Mastercard / RuPay network",
+      "last_verified": "2026-04",
+      "notes": [
+        "Available in Visa, Mastercard, and RuPay variants",
+        "Spend ₹20,000/quarter to activate next quarter's access"
+      ]
+    },
+    "Federal Bank::Celesta (Visa)": {
+      "status": "yes",
+      "domestic_visits": "Unlimited",
+      "intl_visits": "4/year",
+      "spend_req": "₹10,000/month",
+      "access_via": "DreamFolks + LoungeKey",
+      "last_verified": "2026-04",
+      "notes": [
+        "Lifetime free card",
+        "Spend ₹10,000/month to unlock domestic access"
+      ]
+    },
+    "Federal Bank::Celesta (Mastercard)": {
+      "status": "yes",
+      "domestic_visits": "Unlimited",
+      "intl_visits": "4/year",
+      "spend_req": "₹10,000/month",
+      "access_via": "DreamFolks + LoungeKey",
+      "last_verified": "2026-04",
+      "notes": [
+        "Lifetime free card"
+      ]
+    },
+    "Federal Bank::Imperio": {
+      "status": "yes",
+      "domestic_visits": "Unlimited",
+      "intl_visits": "8/year",
+      "spend_req": "₹10,000/month",
+      "access_via": "DreamFolks + LoungeKey",
+      "last_verified": "2026-04",
+      "notes": [
+        "Premium Federal Bank card"
+      ]
+    },
+    "HDFC Bank::Infinia (Metal)": {
+      "status": "yes",
+      "domestic_visits": "Unlimited",
+      "intl_visits": "Unlimited (Priority Pass)",
+      "spend_req": null,
+      "access_via": "Priority Pass + DreamFolks",
+      "last_verified": "2026-04",
+      "notes": [
+        "Invite-only super-premium card",
+        "Annual fee ₹12,500",
+        "Unlimited for primary and add-on"
+      ]
+    },
+    "HDFC Bank::Diners Club Black": {
+      "status": "yes",
+      "domestic_visits": "Unlimited",
+      "intl_visits": "Unlimited (Priority Pass)",
+      "spend_req": null,
+      "access_via": "Diners Club network + Priority Pass",
+      "last_verified": "2026-04",
+      "notes": [
+        "Annual fee ₹10,000",
+        "Requires ₹8L spend to keep"
+      ]
+    },
+    "HDFC Bank::Diners Club Privilege": {
+      "status": "yes",
+      "domestic_visits": "12/year (3/quarter)",
+      "intl_visits": "6/year (Priority Pass)",
+      "spend_req": null,
+      "access_via": "DreamFolks + Priority Pass",
+      "last_verified": "2026-04",
+      "notes": []
+    },
+    "HDFC Bank::Regalia Gold": {
+      "status": "partial",
+      "domestic_visits": "12/year (3/quarter)",
+      "intl_visits": "6/year (Priority Pass)",
+      "spend_req": "₹1,50,000/quarter",
+      "access_via": "DreamFolks + Priority Pass",
+      "last_verified": "2026-04",
+      "notes": [
+        "Spend ₹1.5L in previous quarter to get lounge vouchers for next quarter",
+        "Voucher-based access from June 2025"
+      ]
+    },
+    "HDFC Bank::Regalia": {
+      "status": "partial",
+      "domestic_visits": "8/year (2/quarter)",
+      "intl_visits": "4/year (Priority Pass)",
+      "spend_req": "₹1,00,000/quarter",
+      "access_via": "DreamFolks + Priority Pass",
+      "last_verified": "2026-04",
+      "notes": [
+        "Spend ₹1L in previous quarter to activate lounge access"
+      ]
+    },
+    "HDFC Bank::Tata Neu Infinity": {
+      "status": "partial",
+      "domestic_visits": "8/year (2/quarter)",
+      "intl_visits": "4/year (Priority Pass)",
+      "spend_req": "₹1,00,000/quarter",
+      "access_via": "DreamFolks + Priority Pass",
+      "last_verified": "2026-04",
+      "notes": [
+        "Voucher-based lounge access from June 2025"
+      ]
+    },
+    "HDFC Bank::Tata Neu Plus": {
+      "status": "partial",
+      "domestic_visits": "4/year (1/quarter)",
+      "intl_visits": "None",
+      "spend_req": "₹75,000/quarter",
+      "access_via": "DreamFolks",
+      "last_verified": "2026-04",
+      "notes": [
+        "Voucher-based lounge access from June 2025"
+      ]
+    },
+    "HDFC Bank::Millennia": {
+      "status": "partial",
+      "domestic_visits": "4/year (1/quarter)",
+      "intl_visits": "None",
+      "spend_req": "₹1,00,000/quarter",
+      "access_via": "DreamFolks",
+      "last_verified": "2026-04",
+      "notes": [
+        "Voucher-based lounge access from June 2025"
+      ]
+    },
+    "HDFC Bank::MoneyBack+": {
+      "status": "no",
+      "domestic_visits": "None",
+      "intl_visits": "None",
+      "spend_req": null,
+      "access_via": "N/A",
+      "last_verified": "2026-04",
+      "notes": [
+        "Cashback card — no lounge access"
+      ]
+    },
+    "HDFC Bank::Swiggy HDFC Bank": {
+      "status": "no",
+      "domestic_visits": "None",
+      "intl_visits": "None",
+      "spend_req": null,
+      "access_via": "N/A",
+      "last_verified": "2026-04",
+      "notes": [
+        "Co-branded dining card — no lounge access"
+      ]
+    },
+    "HDFC Bank::Business MoneyBack": {
+      "status": "no",
+      "domestic_visits": "None",
+      "intl_visits": "None",
+      "spend_req": null,
+      "access_via": "N/A",
+      "last_verified": "2026-04",
+      "notes": [
+        "Business cashback card — no lounge access"
+      ]
+    },
+    "HSBC::Premier": {
+      "status": "yes",
+      "domestic_visits": "Unlimited (Mastercard India program)",
+      "intl_visits": "Unlimited (LoungeKey, 1400+ lounges), 8 guest visits/year",
+      "spend_req": null,
+      "access_via": "Mastercard + LoungeKey",
+      "last_verified": "2026-04",
+      "notes": [
+        "Requires HSBC Premier banking relationship (₹50L TRB or ₹3L net monthly salary)",
+        "Annual fee ₹12,000 (waived on Premier relationship)",
+        "Network: Mastercard"
+      ]
+    },
+    "HSBC::Live+": {
+      "status": "partial",
+      "domestic_visits": "4/year (1/quarter)",
+      "intl_visits": "None",
+      "spend_req": null,
+      "access_via": "Mastercard India program",
+      "last_verified": "2026-04",
+      "notes": [
+        "Annual fee ₹999 (waived on ₹2L/year spend)",
+        "No international lounge access",
+        "Network: Mastercard"
+      ]
+    },
+    "HSBC::TravelOne": {
+      "status": "yes",
+      "domestic_visits": "6/year",
+      "intl_visits": "4/year (LoungeKey)",
+      "spend_req": null,
+      "access_via": "DreamFolks + LoungeKey",
+      "last_verified": "2026-04",
+      "notes": [
+        "Annual fee ₹4,999",
+        "Network: Mastercard"
+      ]
+    },
+    "HSBC::Visa Platinum": {
+      "status": "no",
+      "domestic_visits": "None",
+      "intl_visits": "None",
+      "spend_req": null,
+      "access_via": "N/A",
+      "last_verified": "2026-04",
+      "notes": [
+        "Entry-level lifetime-free card — no lounge access"
+      ]
+    },
+    "ICICI Bank::Emeralde": {
+      "status": "yes",
+      "domestic_visits": "Unlimited",
+      "intl_visits": "Unlimited (Priority Pass)",
+      "spend_req": null,
+      "access_via": "DreamFolks + Priority Pass",
+      "last_verified": "2026-04",
+      "notes": [
+        "Annual fee ₹12,000"
+      ]
+    },
+    "ICICI Bank::Emeralde Private Metal": {
+      "status": "yes",
+      "domestic_visits": "Unlimited",
+      "intl_visits": "Unlimited (Priority Pass)",
+      "spend_req": null,
+      "access_via": "DreamFolks + Priority Pass",
+      "last_verified": "2026-04",
+      "notes": [
+        "Super-premium metal card",
+        "Annual fee ₹1,99,999"
+      ]
+    },
+    "ICICI Bank::Sapphiro": {
+      "status": "yes",
+      "domestic_visits": "16/year (4/quarter)",
+      "intl_visits": "2/year (DreamFolks intl)",
+      "spend_req": "₹75,000/quarter",
+      "access_via": "DreamFolks",
+      "last_verified": "2026-04",
+      "notes": [
+        "Spend ₹75,000 in previous quarter to activate next quarter's access (from July 2025)"
+      ]
+    },
+    "ICICI Bank::Rubyx": {
+      "status": "partial",
+      "domestic_visits": "8/year (2/quarter)",
+      "intl_visits": "None",
+      "spend_req": "₹75,000/quarter",
+      "access_via": "Visa / Mastercard network",
+      "last_verified": "2026-04",
+      "notes": [
+        "Joining fee ₹3,000; annual fee ₹2,000 (waived on ₹3L spend)",
+        "Visa variant only for airport lounge; Mastercard for railway lounge",
+        "Spend ₹75,000 in quarter to unlock next quarter's access"
+      ]
+    },
+    "ICICI Bank::Coral": {
+      "status": "partial",
+      "domestic_visits": "2/year",
+      "intl_visits": "None",
+      "spend_req": "₹75,000/quarter",
+      "access_via": "DreamFolks",
+      "last_verified": "2026-04",
+      "notes": [
+        "Spend ₹75,000 in previous quarter to activate access"
+      ]
+    },
+    "ICICI Bank::Amazon Pay ICICI": {
+      "status": "no",
+      "domestic_visits": "None",
+      "intl_visits": "None",
+      "spend_req": null,
+      "access_via": "N/A",
+      "last_verified": "2026-04",
+      "notes": [
+        "Cashback co-branded card — no lounge access"
+      ]
+    },
+    "ICICI Bank::Manchester United Platinum": {
+      "status": "no",
+      "domestic_visits": "None",
+      "intl_visits": "None",
+      "spend_req": null,
+      "access_via": "N/A",
+      "last_verified": "2026-04",
+      "notes": [
+        "Co-branded lifestyle card — no lounge access"
+      ]
+    },
+    "ICICI Bank::Platinum Chip": {
+      "status": "no",
+      "domestic_visits": "None",
+      "intl_visits": "None",
+      "spend_req": null,
+      "access_via": "N/A",
+      "last_verified": "2026-04",
+      "notes": [
+        "Entry-level card — no lounge access"
+      ]
+    },
+    "ICICI Bank::MakeMyTrip ICICI": {
+      "status": "partial",
+      "domestic_visits": "4/year (1/quarter)",
+      "intl_visits": "None",
+      "spend_req": "₹75,000/quarter",
+      "access_via": "DreamFolks",
+      "last_verified": "2026-04",
+      "notes": [
+        "Spend ₹75,000 in previous quarter to activate access"
+      ]
+    },
+    "IDFC FIRST Bank::Wealth": {
+      "status": "yes",
+      "domestic_visits": "Unlimited",
+      "intl_visits": "4/year (Priority Pass)",
+      "spend_req": null,
+      "access_via": "DreamFolks + Priority Pass",
+      "last_verified": "2026-04",
+      "notes": [
+        "Lifetime free card",
+        "Best IDFC FIRST card for travel"
+      ]
+    },
+    "IDFC FIRST Bank::Select": {
+      "status": "yes",
+      "domestic_visits": "8/year (2/quarter)",
+      "intl_visits": "None",
+      "spend_req": null,
+      "access_via": "DreamFolks",
+      "last_verified": "2026-04",
+      "notes": [
+        "Lifetime free card"
+      ]
+    },
+    "IDFC FIRST Bank::Classic": {
+      "status": "no",
+      "domestic_visits": "None",
+      "intl_visits": "None",
+      "spend_req": null,
+      "access_via": "None",
+      "last_verified": "2026-04",
+      "notes": [
+        "Lifetime free entry card — no airport lounge access",
+        "Offers railway lounge access only"
+      ]
+    },
+    "IDFC FIRST Bank::Millennia": {
+      "status": "no",
+      "domestic_visits": "None",
+      "intl_visits": "None",
+      "spend_req": null,
+      "access_via": "None",
+      "last_verified": "2026-04",
+      "notes": [
+        "Lifetime free entry card — no airport lounge access",
+        "Offers railway lounge access only"
+      ]
+    },
+    "IDFC FIRST Bank::HPCL Power+": {
+      "status": "no",
+      "domestic_visits": "None",
+      "intl_visits": "None",
+      "spend_req": null,
+      "access_via": "N/A",
+      "last_verified": "2026-04",
+      "notes": [
+        "Fuel-focused co-branded card — no lounge access"
+      ]
+    },
+    "IDFC FIRST Bank::Vistara": {
+      "status": "partial",
+      "domestic_visits": "4/year (1/quarter)",
+      "intl_visits": "None",
+      "spend_req": null,
+      "access_via": "DreamFolks",
+      "last_verified": "2026-04",
+      "notes": [
+        "Co-branded with Air India (formerly Vistara)"
+      ]
+    },
+    "IndusInd Bank::Legend": {
+      "status": "yes",
+      "domestic_visits": "8/year (2/quarter)",
+      "intl_visits": "4/year (Priority Pass)",
+      "spend_req": null,
+      "access_via": "DreamFolks + Priority Pass",
+      "last_verified": "2026-04",
+      "notes": []
+    },
+    "IndusInd Bank::Pinnacle": {
+      "status": "yes",
+      "domestic_visits": "Unlimited",
+      "intl_visits": "Unlimited (Priority Pass)",
+      "spend_req": null,
+      "access_via": "DreamFolks + Priority Pass",
+      "last_verified": "2026-04",
+      "notes": [
+        "Super-premium IndusInd card"
+      ]
+    },
+    "IndusInd Bank::Pioneer Heritage": {
+      "status": "yes",
+      "domestic_visits": "Unlimited",
+      "intl_visits": "Unlimited (Priority Pass)",
+      "spend_req": null,
+      "access_via": "DreamFolks + Priority Pass",
+      "last_verified": "2026-04",
+      "notes": [
+        "Requires Pioneer Banking relationship"
+      ]
+    },
+    "IndusInd Bank::Iconia": {
+      "status": "yes",
+      "domestic_visits": "8/year (2/quarter)",
+      "intl_visits": "4/year (Priority Pass)",
+      "spend_req": null,
+      "access_via": "DreamFolks + Priority Pass",
+      "last_verified": "2026-04",
+      "notes": []
+    },
+    "IndusInd Bank::EazyDiner Platinum": {
+      "status": "partial",
+      "domestic_visits": "4/year (1/quarter)",
+      "intl_visits": "None",
+      "spend_req": null,
+      "access_via": "DreamFolks",
+      "last_verified": "2026-04",
+      "notes": [
+        "Dining-focused co-branded card"
+      ]
+    },
+    "IndusInd Bank::Platinum Aura Edge": {
+      "status": "partial",
+      "domestic_visits": "4/year (1/quarter)",
+      "intl_visits": "None",
+      "spend_req": null,
+      "access_via": "DreamFolks",
+      "last_verified": "2026-04",
+      "notes": []
+    },
+    "IndusInd Bank::Celesta": {
+      "status": "yes",
+      "domestic_visits": "Unlimited",
+      "intl_visits": "Unlimited (Priority Pass)",
+      "spend_req": null,
+      "access_via": "DreamFolks + Priority Pass",
+      "last_verified": "2026-04",
+      "notes": [
+        "Premium metal card",
+        "Annual fee ₹10,000"
+      ]
+    },
+    "Kotak Mahindra Bank::White Reserve": {
+      "status": "yes",
+      "domestic_visits": "Unlimited",
+      "intl_visits": "Unlimited (Priority Pass)",
+      "spend_req": null,
+      "access_via": "Priority Pass + DreamFolks",
+      "last_verified": "2026-04",
+      "notes": [
+        "Super-premium metal card",
+        "Annual fee ₹10,000 (waived on ₹10L spend)",
+        "Note: Kotak not accepting new credit card applications as of mid-2025"
+      ]
+    },
+    "Kotak Mahindra Bank::White": {
+      "status": "yes",
+      "domestic_visits": "8/year (2/quarter)",
+      "intl_visits": "4/year (Priority Pass)",
+      "spend_req": null,
+      "access_via": "Priority Pass + DreamFolks",
+      "last_verified": "2026-04",
+      "notes": [
+        "Annual fee ₹3,000 (waived on ₹5L spend)",
+        "Note: Kotak not accepting new credit card applications as of mid-2025"
+      ]
+    },
+    "Kotak Mahindra Bank::Royale Signature": {
+      "status": "partial",
+      "domestic_visits": "4/year (1/quarter)",
+      "intl_visits": "None",
+      "spend_req": "₹1,00,000/year",
+      "access_via": "DreamFolks",
+      "last_verified": "2026-04",
+      "notes": []
+    },
+    "Kotak Mahindra Bank::Zen Signature": {
+      "status": "yes",
+      "domestic_visits": "8/year (2/quarter)",
+      "intl_visits": "None",
+      "spend_req": null,
+      "access_via": "DreamFolks",
+      "last_verified": "2026-04",
+      "notes": [
+        "Annual fee waived on ₹1.5L/year spend"
+      ]
+    },
+    "Kotak Mahindra Bank::League Platinum": {
+      "status": "no",
+      "domestic_visits": "None",
+      "intl_visits": "None",
+      "spend_req": null,
+      "access_via": "N/A",
+      "last_verified": "2026-04",
+      "notes": [
+        "Entry-level rewards card — no lounge access"
+      ]
+    },
+    "Kotak Mahindra Bank::811 Dream Different": {
+      "status": "no",
+      "domestic_visits": "None",
+      "intl_visits": "None",
+      "spend_req": null,
+      "access_via": "N/A",
+      "last_verified": "2026-04",
+      "notes": [
+        "Entry-level digital card — no lounge access"
+      ]
+    },
+    "Priority Pass::Priority Pass Membership": {
+      "status": "yes",
+      "domestic_visits": "Varies by plan",
+      "intl_visits": "Unlimited or capped (1400+ lounges globally)",
+      "spend_req": null,
+      "access_via": "Priority Pass",
+      "last_verified": "2026-04",
+      "notes": [
+        "Standalone membership — not a card",
+        "Standard plan: $99/year + $35/visit",
+        "Prestige plan: $429/year, unlimited visits",
+        "Many premium Indian credit cards include complimentary Priority Pass"
+      ]
+    },
+    "RBL Bank::World Safari": {
+      "status": "partial",
+      "domestic_visits": "8/year (2/quarter)",
+      "intl_visits": "2/year + 1 extra/quarter on ₹50K spend (Priority Pass)",
+      "spend_req": "₹35,000/quarter (domestic)",
+      "access_via": "DreamFolks + Priority Pass",
+      "last_verified": "2026-04",
+      "notes": [
+        "Spend ₹35,000 in previous quarter for domestic access",
+        "Zero forex markup"
+      ]
+    },
+    "RBL Bank::World Safari Lite": {
+      "status": "partial",
+      "domestic_visits": "4/year (1/quarter)",
+      "intl_visits": "4/year (1/quarter)",
+      "spend_req": "₹50,000/quarter",
+      "access_via": "DreamFolks",
+      "last_verified": "2026-04",
+      "notes": [
+        "Spend ₹50,000 in previous quarter to activate access",
+        "Zero forex markup"
+      ]
+    },
+    "RBL Bank::Insignia Preferred": {
+      "status": "yes",
+      "domestic_visits": "8/year (2/quarter)",
+      "intl_visits": "6/year (Priority Pass)",
+      "spend_req": null,
+      "access_via": "DreamFolks + Priority Pass",
+      "last_verified": "2026-04",
+      "notes": [
+        "LTF for Insignia banking relationship holders"
+      ]
+    },
+    "RBL Bank::Platinum Maxima Plus": {
+      "status": "partial",
+      "domestic_visits": "8/year (2/quarter)",
+      "intl_visits": "None",
+      "spend_req": null,
+      "access_via": "DreamFolks",
+      "last_verified": "2026-04",
+      "notes": []
+    },
+    "RBL Bank::Bank Easy": {
+      "status": "no",
+      "domestic_visits": "None",
+      "intl_visits": "None",
+      "spend_req": null,
+      "access_via": "N/A",
+      "last_verified": "2026-04",
+      "notes": [
+        "Entry-level card — no lounge access"
+      ]
+    },
+    "SBI Card::Elite": {
+      "status": "yes",
+      "domestic_visits": "8/year (2/quarter)",
+      "intl_visits": "6/year (Priority Pass)",
+      "spend_req": null,
+      "access_via": "DreamFolks + Priority Pass",
+      "last_verified": "2026-04",
+      "notes": [
+        "Annual fee ₹4,999"
+      ]
+    },
+    "SBI Card::BPCL Octane": {
+      "status": "partial",
+      "domestic_visits": "4/year (1/quarter)",
+      "intl_visits": "None",
+      "spend_req": null,
+      "access_via": "DreamFolks",
+      "last_verified": "2026-04",
+      "notes": [
+        "Fuel co-branded card with limited lounge access"
+      ]
+    },
+    "SBI Card::Pulse": {
+      "status": "partial",
+      "domestic_visits": "4/year (1/quarter)",
+      "intl_visits": "None",
+      "spend_req": null,
+      "access_via": "DreamFolks",
+      "last_verified": "2026-04",
+      "notes": [
+        "Health/wellness-focused card"
+      ]
+    },
+    "SBI Card::SimplySAVE": {
+      "status": "no",
+      "domestic_visits": "None",
+      "intl_visits": "None",
+      "spend_req": null,
+      "access_via": "None",
+      "last_verified": "2026-04",
+      "notes": [
+        "Most popular entry-level SBI Card — no lounge access"
+      ]
+    },
+    "SBI Card::Unnati": {
+      "status": "no",
+      "domestic_visits": "None",
+      "intl_visits": "None",
+      "spend_req": null,
+      "access_via": "N/A",
+      "last_verified": "2026-04",
+      "notes": [
+        "Entry-level card — no lounge access"
+      ]
+    },
+    "Standard Chartered::Ultimate": {
+      "status": "yes",
+      "domestic_visits": "8/year (2/quarter)",
+      "intl_visits": "4/year (Priority Pass)",
+      "spend_req": null,
+      "access_via": "DreamFolks + Priority Pass",
+      "last_verified": "2026-04",
+      "notes": [
+        "Annual fee ₹5,000"
+      ]
+    },
+    "Standard Chartered::Rewards": {
+      "status": "partial",
+      "domestic_visits": "4/year (1/quarter)",
+      "intl_visits": "None",
+      "spend_req": null,
+      "access_via": "Mastercard India program",
+      "last_verified": "2026-04",
+      "notes": [
+        "Zero joining fee; annual fee reversed on ₹3L spend"
+      ]
+    },
+    "Standard Chartered::EaseMyTrip": {
+      "status": "partial",
+      "domestic_visits": "4/year (1/quarter)",
+      "intl_visits": "None",
+      "spend_req": null,
+      "access_via": "DreamFolks",
+      "last_verified": "2026-04",
+      "notes": [
+        "Travel co-branded card"
+      ]
+    },
+    "Standard Chartered::DigiSmart": {
+      "status": "no",
+      "domestic_visits": "None",
+      "intl_visits": "None",
+      "spend_req": null,
+      "access_via": "N/A",
+      "last_verified": "2026-04",
+      "notes": [
+        "No longer accepting new applications from Dec 2022",
+        "No lounge access"
+      ]
+    },
+    "Standard Chartered::Smart": {
+      "status": "no",
+      "domestic_visits": "None",
+      "intl_visits": "None",
+      "spend_req": null,
+      "access_via": "N/A",
+      "last_verified": "2026-04",
+      "notes": [
+        "Cashback-only card — no lounge access"
+      ]
+    },
+    "Yes Bank::Marquee": {
+      "status": "partial",
+      "domestic_visits": "24/year (6/quarter)",
+      "intl_visits": "Unlimited",
+      "spend_req": "₹1,00,000/quarter (domestic)",
+      "access_via": "DreamFolks + Priority Pass",
+      "last_verified": "2026-04",
+      "notes": [
+        "Spend ₹1L in previous quarter for domestic access (from April 2025)",
+        "Unlimited international lounge access for primary and add-on cardholders",
+        "Annual fee ₹9,999"
+      ]
+    },
+    "Yes Bank::Reserv": {
+      "status": "partial",
+      "domestic_visits": "12/year (3/quarter)",
+      "intl_visits": "6/year (Priority Pass)",
+      "spend_req": "₹1,00,000/quarter (domestic)",
+      "access_via": "DreamFolks + Priority Pass",
+      "last_verified": "2026-04",
+      "notes": [
+        "Spend ₹1L in previous quarter for domestic access (from April 2025)",
+        "Previously known as YES First Exclusive",
+        "Annual fee ₹2,499"
+      ]
+    },
+    "Yes Bank::Wellness Plus": {
+      "status": "partial",
+      "domestic_visits": "8/year (2/quarter)",
+      "intl_visits": "None",
+      "spend_req": "₹50,000/quarter",
+      "access_via": "DreamFolks",
+      "last_verified": "2026-04",
+      "notes": [
+        "Spend ₹50,000 in previous quarter for domestic access"
+      ]
+    },
+    "Yes Bank::Elite+": {
+      "status": "partial",
+      "domestic_visits": "8/year (2/quarter)",
+      "intl_visits": "3/year",
+      "spend_req": "₹50,000/quarter (domestic)",
+      "access_via": "DreamFolks",
+      "last_verified": "2026-04",
+      "notes": [
+        "Spend ₹50,000 in previous quarter for domestic access",
+        "Annual fee ₹999"
+      ]
+    },
+    "HDFC Bank::Imperia Debit": {
+      "status": "partial",
+      "domestic_visits": "8/year (2/quarter)",
+      "intl_visits": "None",
+      "spend_req": "₹10,000/quarter (from Jan 2026, voucher-based)",
+      "access_via": "Mastercard India program",
+      "last_verified": "2026-04",
+      "notes": [
+        "Requires Imperia banking relationship",
+        "Voucher issued via SMS/email after meeting spend criteria",
+        "Network: Mastercard"
+      ]
+    },
+    "HDFC Bank::Millennia Debit": {
+      "status": "partial",
+      "domestic_visits": "8/year (2/quarter)",
+      "intl_visits": "None",
+      "spend_req": "₹10,000/quarter (from Jan 2026, voucher-based)",
+      "access_via": "Mastercard India program",
+      "last_verified": "2026-04",
+      "notes": [
+        "Voucher-based access from January 2026",
+        "Network: Mastercard"
+      ]
+    },
+    "HDFC Bank::EasyShop Platinum Debit": {
+      "status": "partial",
+      "domestic_visits": "8/year (2/quarter)",
+      "intl_visits": "None",
+      "spend_req": "₹10,000/quarter (from Jan 2026, voucher-based)",
+      "access_via": "Visa / Mastercard / RuPay network",
+      "last_verified": "2026-04",
+      "notes": [
+        "Available in Visa, Mastercard, and RuPay variants",
+        "Voucher-based access from January 2026"
+      ]
+    },
+    "HDFC Bank::Infiniti Debit": {
+      "status": "yes",
+      "domestic_visits": "8/year (2/quarter)",
+      "intl_visits": "None",
+      "spend_req": null,
+      "access_via": "Visa / Mastercard network",
+      "last_verified": "2026-04",
+      "notes": [
+        "No spend condition — Infiniti is exempt from the quarterly spend requirement",
+        "Requires Imperia banking relationship at highest tier"
+      ]
+    },
+    "ICICI Bank::Sapphiro Debit": {
+      "status": "yes",
+      "domestic_visits": "16/year (4/quarter)",
+      "intl_visits": "None",
+      "spend_req": null,
+      "access_via": "Mastercard India program",
+      "last_verified": "2026-04",
+      "notes": [
+        "Annual fee ₹1,999 + GST",
+        "Network: Mastercard"
+      ]
+    },
+    "ICICI Bank::Coral Paywave Debit": {
+      "status": "partial",
+      "domestic_visits": "8/year (2/quarter)",
+      "intl_visits": "None",
+      "spend_req": null,
+      "access_via": "Visa / Mastercard network",
+      "last_verified": "2026-04",
+      "notes": [
+        "Annual fee ₹699 + GST",
+        "Network: Visa or Mastercard"
+      ]
+    },
+    "Axis Bank::Priority Debit": {
+      "status": "partial",
+      "domestic_visits": "12/year (3/quarter)",
+      "intl_visits": "None",
+      "spend_req": "₹5,000/quarter",
+      "access_via": "Visa / Mastercard network",
+      "last_verified": "2026-04",
+      "notes": [
+        "Requires Axis Priority banking relationship",
+        "Spend ₹5,000 in previous quarter to unlock access"
+      ]
+    },
+    "IDFC FIRST Bank::Wealth Debit": {
+      "status": "yes",
+      "domestic_visits": "12/year (3/quarter, 1 companion allowed)",
+      "intl_visits": "8/year (2/quarter)",
+      "spend_req": null,
+      "access_via": "Visa network",
+      "last_verified": "2026-04",
+      "notes": [
+        "Lifetime free debit card",
+        "One companion allowed for domestic lounge visits",
+        "Network: Visa"
+      ]
+    },
+    "IndusInd Bank::World Exclusive Debit": {
+      "status": "yes",
+      "domestic_visits": "4/year (1/quarter)",
+      "intl_visits": "4/year (1/quarter)",
+      "spend_req": null,
+      "access_via": "Mastercard / Visa network",
+      "last_verified": "2026-04",
+      "notes": [
+        "Lifetime free debit card",
+        "Both domestic and international access"
+      ]
+    },
+    "IndusInd Bank::Visa Signature Exclusive Debit": {
+      "status": "yes",
+      "domestic_visits": "4/year (1/quarter)",
+      "intl_visits": "4/year (1/quarter)",
+      "spend_req": null,
+      "access_via": "Visa network",
+      "last_verified": "2026-04",
+      "notes": [
+        "Lifetime free debit card",
+        "Network: Visa"
+      ]
+    },
+    "Kotak Mahindra Bank::Privy League Signature Debit": {
+      "status": "partial",
+      "domestic_visits": "4/year (1/quarter)",
+      "intl_visits": "None",
+      "spend_req": null,
+      "access_via": "Mastercard / Visa network",
+      "last_verified": "2026-04",
+      "notes": [
+        "Requires Kotak Privy League banking relationship",
+        "Note: Kotak not accepting new credit card applications — debit card status unaffected"
+      ]
+    },
+    "SBI Card::Platinum Debit (RuPay)": {
+      "status": "partial",
+      "domestic_visits": "8/year (2/quarter)",
+      "intl_visits": "None",
+      "spend_req": null,
+      "access_via": "RuPay lounge program",
+      "last_verified": "2026-04",
+      "notes": [
+        "Network: RuPay",
+        "Access at RuPay-enrolled domestic lounges only"
+      ]
+    },
+    "SBI Card::Platinum Debit (Visa/MC)": {
+      "status": "partial",
+      "domestic_visits": "8/year (2/quarter)",
+      "intl_visits": "None",
+      "spend_req": null,
+      "access_via": "Visa / Mastercard network",
+      "last_verified": "2026-04",
+      "notes": [
+        "Available in Visa and Mastercard variants"
+      ]
+    },
+    "SBI Card::Wealth RuPay Select Debit": {
+      "status": "partial",
+      "domestic_visits": "16/year (4/quarter)",
+      "intl_visits": "2/year",
+      "spend_req": null,
+      "access_via": "RuPay Select program",
+      "last_verified": "2026-04",
+      "notes": [
+        "Requires SBI Wealth account (min ₹50L balance)",
+        "Network: RuPay Select"
+      ]
+    },
+    "Yes Bank::Prosperity Platinum Debit": {
+      "status": "partial",
+      "domestic_visits": "4/year (1/quarter)",
+      "intl_visits": "None",
+      "spend_req": null,
+      "access_via": "Visa / Mastercard network",
+      "last_verified": "2026-04",
+      "notes": [
+        "Annual fee ₹599 + GST"
+      ]
+    },
+    "BOBCARD::Eterna": {
+      "status": "yes",
+      "domestic_visits": "Unlimited",
+      "intl_visits": "None",
+      "spend_req": "₹40,000/quarter",
+      "access_via": "DreamFolks",
+      "last_verified": "2026-04",
+      "notes": [
+        "Joining fee ₹2,499",
+        "Spend ₹40,000 in previous quarter to unlock unlimited domestic lounge access"
+      ]
+    },
+    "BOBCARD::Premier": {
+      "status": "partial",
+      "domestic_visits": "12/year (3/quarter)",
+      "intl_visits": "None",
+      "spend_req": "₹40,000/quarter",
+      "access_via": "DreamFolks",
+      "last_verified": "2026-04",
+      "notes": [
+        "Joining fee ₹1",
+        "Spend ₹40,000 in previous quarter to unlock access"
+      ]
+    },
+    "BOBCARD::Select": {
+      "status": "partial",
+      "domestic_visits": "8/year (2/quarter)",
+      "intl_visits": "None",
+      "spend_req": "₹40,000/quarter",
+      "access_via": "DreamFolks",
+      "last_verified": "2026-04",
+      "notes": [
+        "Spend ₹40,000 in previous quarter to unlock access"
+      ]
+    },
+    "BOBCARD::RuPay Platinum": {
+      "status": "partial",
+      "domestic_visits": "8/year (2/quarter)",
+      "intl_visits": "None",
+      "spend_req": "₹40,000/quarter",
+      "access_via": "RuPay lounge program",
+      "last_verified": "2026-04",
+      "notes": [
+        "RuPay Platinum lounge program; spend requirement effective Jan 2025"
+      ]
+    },
+    "BOBCARD::Varunah Plus": {
+      "status": "no",
+      "domestic_visits": "None",
+      "intl_visits": "None",
+      "spend_req": null,
+      "access_via": "None",
+      "last_verified": "2026-04",
+      "notes": [
+        "Entry-level card — no lounge access benefit"
+      ]
+    },
+    "BOBCARD::Easy": {
+      "status": "no",
+      "domestic_visits": "None",
+      "intl_visits": "None",
+      "spend_req": null,
+      "access_via": "None",
+      "last_verified": "2026-04",
+      "notes": [
+        "Entry-level card — no lounge access benefit"
+      ]
+    },
+    "BOBCARD::RuPay Platinum DI Debit": {
+      "status": "partial",
+      "domestic_visits": "Up to 3/quarter (tier-based on spend)",
+      "intl_visits": "None",
+      "spend_req": "₹10,000–₹1,00,000/quarter (tier-based)",
+      "access_via": "RuPay lounge program",
+      "last_verified": "2026-04",
+      "notes": [
+        "Tier 1: ₹10,000–₹50,000 spend → 1 visit",
+        "Tier 2: ₹50,001–₹1,00,000 → 2 visits",
+        "Tier 3: above ₹1,00,000 → 3 visits",
+        "Zero issuance/annual fee"
+      ]
+    },
+    "HDFC Bank::MoneyBack": {
+      "status": "no",
+      "domestic_visits": "None",
+      "intl_visits": "None",
+      "spend_req": null,
+      "access_via": "None",
+      "last_verified": "2026-04",
+      "notes": [
+        "Entry-level cashback card — no lounge access benefit"
+      ]
+    },
+    "HDFC Bank::Freedom": {
+      "status": "no",
+      "domestic_visits": "None",
+      "intl_visits": "None",
+      "spend_req": null,
+      "access_via": "None",
+      "last_verified": "2026-04",
+      "notes": [
+        "Entry-level card — no lounge access benefit"
+      ]
+    },
+    "HDFC Bank::EasyShop Gold Debit": {
+      "status": "no",
+      "domestic_visits": "None",
+      "intl_visits": "None",
+      "spend_req": null,
+      "access_via": "None",
+      "last_verified": "2026-04",
+      "notes": [
+        "Standard savings account debit card — no lounge access"
+      ]
+    },
+    "HDFC Bank::EasyShop Titanium Debit": {
+      "status": "no",
+      "domestic_visits": "None",
+      "intl_visits": "None",
+      "spend_req": null,
+      "access_via": "None",
+      "last_verified": "2026-04",
+      "notes": [
+        "Mid-range debit card — no lounge access"
+      ]
+    },
+    "ICICI Bank::Platinum": {
+      "status": "no",
+      "domestic_visits": "None",
+      "intl_visits": "None",
+      "spend_req": null,
+      "access_via": "None",
+      "last_verified": "2026-04",
+      "notes": [
+        "Most common entry ICICI credit card — no lounge access"
+      ]
+    },
+    "ICICI Bank::Silver Debit": {
+      "status": "no",
+      "domestic_visits": "None",
+      "intl_visits": "None",
+      "spend_req": null,
+      "access_via": "None",
+      "last_verified": "2026-04",
+      "notes": [
+        "Basic savings account debit card — no lounge access"
+      ]
+    },
+    "ICICI Bank::Gold Debit": {
+      "status": "no",
+      "domestic_visits": "None",
+      "intl_visits": "None",
+      "spend_req": null,
+      "access_via": "None",
+      "last_verified": "2026-04",
+      "notes": [
+        "Standard debit card — no lounge access"
+      ]
+    },
+    "ICICI Bank::Expressions Debit": {
+      "status": "no",
+      "domestic_visits": "None",
+      "intl_visits": "None",
+      "spend_req": null,
+      "access_via": "None",
+      "last_verified": "2026-04",
+      "notes": [
+        "Lifestyle variant of Coral — entry-level, no lounge access"
+      ]
+    },
+    "ICICI Bank::Rubyx Debit": {
+      "status": "partial",
+      "domestic_visits": "8/year (2/quarter)",
+      "intl_visits": "None",
+      "spend_req": "₹10,000/quarter",
+      "access_via": "Mastercard / Visa network",
+      "last_verified": "2026-04",
+      "notes": [
+        "Spend ₹10,000 in previous quarter to unlock access",
+        "ATM withdrawal limit ₹1.5L/day"
+      ]
+    },
+    "SBI Card::BPCL SBI": {
+      "status": "no",
+      "domestic_visits": "None",
+      "intl_visits": "None",
+      "spend_req": null,
+      "access_via": "None",
+      "last_verified": "2026-04",
+      "notes": [
+        "Popular fuel co-branded card — no lounge access"
+      ]
+    },
+    "SBI Card::Classic Debit": {
+      "status": "no",
+      "domestic_visits": "None",
+      "intl_visits": "None",
+      "spend_req": null,
+      "access_via": "None",
+      "last_verified": "2026-04",
+      "notes": [
+        "Standard SBI savings account debit card — no lounge access"
+      ]
+    },
+    "SBI Card::Gold Debit": {
+      "status": "no",
+      "domestic_visits": "None",
+      "intl_visits": "None",
+      "spend_req": null,
+      "access_via": "None",
+      "last_verified": "2026-04",
+      "notes": [
+        "Mid-range SBI debit card — no lounge access"
+      ]
+    },
+    "Axis Bank::Neo": {
+      "status": "no",
+      "domestic_visits": "None",
+      "intl_visits": "None",
+      "spend_req": null,
+      "access_via": "None",
+      "last_verified": "2026-04",
+      "notes": [
+        "Entry-level digital card — no lounge access"
+      ]
+    },
+    "Axis Bank::Easy Debit": {
+      "status": "no",
+      "domestic_visits": "None",
+      "intl_visits": "None",
+      "spend_req": null,
+      "access_via": "None",
+      "last_verified": "2026-04",
+      "notes": [
+        "Standard savings account debit card — no lounge access"
+      ]
+    },
+    "Kotak Mahindra Bank::811": {
+      "status": "no",
+      "domestic_visits": "None",
+      "intl_visits": "None",
+      "spend_req": null,
+      "access_via": "None",
+      "last_verified": "2026-04",
+      "notes": [
+        "Popular zero-fee digital credit card — no lounge access"
+      ]
+    },
+    "Kotak Mahindra Bank::Classic Debit": {
+      "status": "no",
+      "domestic_visits": "None",
+      "intl_visits": "None",
+      "spend_req": null,
+      "access_via": "None",
+      "last_verified": "2026-04",
+      "notes": [
+        "Standard 811 / savings account debit card — no lounge access"
+      ]
+    },
+    "IDFC FIRST Bank::Select Debit": {
+      "status": "yes",
+      "domestic_visits": "8/year (2/quarter, 1 companion allowed)",
+      "intl_visits": "None",
+      "spend_req": null,
+      "access_via": "Elite Assist (formerly DreamFolks)",
+      "last_verified": "2026-04",
+      "notes": [
+        "Lounge program moved from DreamFolks to Elite Assist from Sep 2025",
+        "Companion also gets complimentary access"
+      ]
+    },
+    "IDFC FIRST Bank::Visa Signature Debit": {
+      "status": "yes",
+      "domestic_visits": "8/year (2/quarter)",
+      "intl_visits": "None",
+      "spend_req": null,
+      "access_via": "Elite Assist (formerly DreamFolks)",
+      "last_verified": "2026-04",
+      "notes": [
+        "Network: Visa Signature",
+        "Lounge program moved from DreamFolks to Elite Assist from Sep 2025"
+      ]
+    },
+    "IDFC FIRST Bank::Visa Platinum Debit": {
+      "status": "partial",
+      "domestic_visits": "4/year (1/quarter)",
+      "intl_visits": "None",
+      "spend_req": null,
+      "access_via": "Elite Assist (formerly DreamFolks)",
+      "last_verified": "2026-04",
+      "notes": [
+        "Network: Visa Platinum",
+        "1 self visit per quarter"
+      ]
+    },
+    "Yes Bank::Classic Debit": {
+      "status": "no",
+      "domestic_visits": "None",
+      "intl_visits": "None",
+      "spend_req": null,
+      "access_via": "None",
+      "last_verified": "2026-04",
+      "notes": [
+        "Standard savings account debit card — no lounge access"
+      ]
+    }
+  }
+}
