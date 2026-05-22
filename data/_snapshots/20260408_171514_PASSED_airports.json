@@ -1,0 +1,307 @@
+{
+  "AMD": {
+    "name": "Ahmedabad (Sardar Vallabhbhai Patel)",
+    "lounges": [
+      {
+        "name": "Ahmedabad Lounge",
+        "terminal": "T2",
+        "networks": [
+          "visa",
+          "mastercard",
+          "rupay",
+          "dreamfolks"
+        ]
+      }
+    ]
+  },
+  "BLR": {
+    "name": "Bengaluru (Kempegowda)",
+    "lounges": [
+      {
+        "name": "Celebration Lounge",
+        "terminal": "T1",
+        "networks": [
+          "visa",
+          "mastercard",
+          "rupay",
+          "diners"
+        ]
+      },
+      {
+        "name": "Plaza Premium Lounge",
+        "terminal": "T2",
+        "networks": [
+          "visa",
+          "mastercard",
+          "rupay",
+          "amex",
+          "priority_pass",
+          "dreamfolks"
+        ]
+      },
+      {
+        "name": "Encalm Privé Lounge",
+        "terminal": "T2",
+        "networks": [
+          "priority_pass",
+          "dreamfolks",
+          "diners"
+        ]
+      }
+    ]
+  },
+  "IXC": {
+    "name": "Chandigarh",
+    "lounges": [
+      {
+        "name": "Chandigarh Lounge",
+        "terminal": "T1",
+        "networks": [
+          "visa",
+          "mastercard",
+          "rupay"
+        ]
+      }
+    ]
+  },
+  "MAA": {
+    "name": "Chennai",
+    "lounges": [
+      {
+        "name": "GVK Lounge (T1)",
+        "terminal": "T1",
+        "networks": [
+          "visa",
+          "mastercard",
+          "rupay"
+        ]
+      },
+      {
+        "name": "Chennai Lounge (T2)",
+        "terminal": "T2",
+        "networks": [
+          "visa",
+          "mastercard",
+          "dreamfolks",
+          "priority_pass"
+        ]
+      }
+    ]
+  },
+  "DEL": {
+    "name": "Delhi (Indira Gandhi)",
+    "lounges": [
+      {
+        "name": "Encalm Privé (T3)",
+        "terminal": "T3",
+        "networks": [
+          "priority_pass",
+          "dreamfolks",
+          "diners",
+          "amex"
+        ]
+      },
+      {
+        "name": "Plaza Premium (T3)",
+        "terminal": "T3",
+        "networks": [
+          "visa",
+          "mastercard",
+          "rupay",
+          "priority_pass",
+          "dreamfolks"
+        ]
+      },
+      {
+        "name": "IndiGo Lounge (T1)",
+        "terminal": "T1",
+        "networks": [
+          "visa",
+          "mastercard",
+          "rupay"
+        ]
+      }
+    ]
+  },
+  "GOI": {
+    "name": "Goa (Manohar International)",
+    "lounges": [
+      {
+        "name": "Manohar Intl Lounge",
+        "terminal": "T1",
+        "networks": [
+          "visa",
+          "mastercard",
+          "dreamfolks"
+        ]
+      }
+    ]
+  },
+  "GAU": {
+    "name": "Guwahati (Lokpriya Gopinath Bordoloi)",
+    "lounges": [
+      {
+        "name": "Guwahati Lounge",
+        "terminal": "T2",
+        "networks": [
+          "visa",
+          "mastercard",
+          "rupay"
+        ]
+      }
+    ]
+  },
+  "HYD": {
+    "name": "Hyderabad (Rajiv Gandhi)",
+    "lounges": [
+      {
+        "name": "Plaza Premium Lounge",
+        "terminal": "T1",
+        "networks": [
+          "visa",
+          "mastercard",
+          "rupay",
+          "priority_pass",
+          "dreamfolks"
+        ]
+      },
+      {
+        "name": "Encalm Lounge",
+        "terminal": "T1",
+        "networks": [
+          "priority_pass",
+          "dreamfolks",
+          "diners"
+        ]
+      }
+    ]
+  },
+  "JAI": {
+    "name": "Jaipur",
+    "lounges": [
+      {
+        "name": "Jaipur Lounge",
+        "terminal": "T2",
+        "networks": [
+          "visa",
+          "mastercard",
+          "rupay"
+        ]
+      }
+    ]
+  },
+  "COK": {
+    "name": "Kochi",
+    "lounges": [
+      {
+        "name": "Kochi Business Lounge",
+        "terminal": "T3",
+        "networks": [
+          "visa",
+          "mastercard",
+          "rupay",
+          "dreamfolks"
+        ]
+      }
+    ]
+  },
+  "CCU": {
+    "name": "Kolkata (Netaji Subhas Chandra Bose)",
+    "lounges": [
+      {
+        "name": "Kolkata Lounge",
+        "terminal": "T2",
+        "networks": [
+          "visa",
+          "mastercard",
+          "rupay"
+        ]
+      }
+    ]
+  },
+  "LKO": {
+    "name": "Lucknow (Chaudhary Charan Singh)",
+    "lounges": [
+      {
+        "name": "Lucknow Business Lounge",
+        "terminal": "T1",
+        "networks": [
+          "visa",
+          "mastercard",
+          "rupay",
+          "dreamfolks"
+        ]
+      }
+    ]
+  },
+  "BOM": {
+    "name": "Mumbai (Chhatrapati Shivaji)",
+    "lounges": [
+      {
+        "name": "GVK Lounge (T1)",
+        "terminal": "T1",
+        "networks": [
+          "visa",
+          "mastercard",
+          "rupay"
+        ]
+      },
+      {
+        "name": "Plaza Premium (T2)",
+        "terminal": "T2",
+        "networks": [
+          "visa",
+          "mastercard",
+          "amex",
+          "priority_pass",
+          "dreamfolks"
+        ]
+      },
+      {
+        "name": "Encalm Privé (T2)",
+        "terminal": "T2",
+        "networks": [
+          "priority_pass",
+          "dreamfolks",
+          "diners"
+        ]
+      },
+      {
+        "name": "Air India Maharaja (T2)",
+        "terminal": "T2",
+        "networks": [
+          "amex",
+          "diners"
+        ]
+      }
+    ]
+  },
+  "PNQ": {
+    "name": "Pune",
+    "lounges": [
+      {
+        "name": "Pune Lounge",
+        "terminal": "T1",
+        "networks": [
+          "visa",
+          "mastercard",
+          "rupay"
+        ]
+      }
+    ]
+  },
+  "TRV": {
+    "name": "Thiruvananthapuram",
+    "lounges": [
+      {
+        "name": "Trivandrum Lounge",
+        "terminal": "T1",
+        "networks": [
+          "visa",
+          "mastercard",
+          "rupay"
+        ]
+      }
+    ]
+  }
+}
